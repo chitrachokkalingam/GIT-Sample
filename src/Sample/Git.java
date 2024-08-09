@@ -6,6 +6,8 @@ public class Git {
 		System.out.println("test");
 		
 System.out.println("print the GIT");
+
+System.out.println("amazon");
 		
 	}
 
